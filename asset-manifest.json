@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/jordan-shoes/static/css/main.73c6e4eb.css",
+    "main.js": "/jordan-shoes/static/js/main.4a3ef420.js",
+    "static/js/787.03a79b6c.chunk.js": "/jordan-shoes/static/js/787.03a79b6c.chunk.js",
+    "static/media/image-michael-jordan.png": "/jordan-shoes/static/media/image-michael-jordan.e56b9196cb5ccde9bd32.png",
+    "index.html": "/jordan-shoes/index.html",
+    "main.73c6e4eb.css.map": "/jordan-shoes/static/css/main.73c6e4eb.css.map",
+    "main.4a3ef420.js.map": "/jordan-shoes/static/js/main.4a3ef420.js.map",
+    "787.03a79b6c.chunk.js.map": "/jordan-shoes/static/js/787.03a79b6c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73c6e4eb.css",
+    "static/js/main.4a3ef420.js"
+  ]
+}
